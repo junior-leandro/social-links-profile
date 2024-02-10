@@ -1,11 +1,30 @@
 
 
 .social-profile{
-    height: 50vh;
+    height: 37vh;
+    justify-content: space-around;
 }
 
 
 .avatar{
     width: 100px;
     border-radius: 50%;
+}
+
+.user-data{
+    gap:.5em;
+}
+
+.user-name{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.user-adress{
+    font-weight: 600;
+    color: var(--green)
+}
+
+.user-message{
+    font-weight: 300;
 }
