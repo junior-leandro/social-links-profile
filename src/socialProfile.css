@@ -28,3 +28,9 @@
 .user-message{
     font-weight: 300;
 }
+
+@media (min-width:480px) {
+    .user-data{
+        margin: -35px auto;
+    }
+}

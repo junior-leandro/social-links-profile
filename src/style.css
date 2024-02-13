@@ -32,6 +32,9 @@
 .content {
   color: var(--white);
   background-color: var(--darkGrey);
-  width: 340px;
+  width: 80%;
+  min-width: 330px;
+  max-width: 380px;
   border-radius: 10px;
+  height: 75vh;
 }
